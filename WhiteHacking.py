@@ -43,8 +43,8 @@ def default_data(email, first_name, last_name, birth_date, login):
 
 
 def parsing():
-    ''' Э
-    та функция парсит введённые данные о пользователе
+    ''' 
+    Эта функция парсит введённые данные о пользователе
     OUTPUT: list
     '''
     lst = [first_name, last_name, login]
